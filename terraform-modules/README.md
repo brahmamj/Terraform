@@ -1,0 +1,1 @@
+![VPC Architecture](VPC.png)
